@@ -1,4 +1,4 @@
 <?php
         echo "mhymh";
-        echo "oakan";
+        echo "koics";
 ?>
