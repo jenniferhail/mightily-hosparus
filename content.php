@@ -5,5 +5,4 @@
         echo "vmwba";
         echo "rrsex";
         echo "duawc";
-        echo "nhwul";
 ?>
