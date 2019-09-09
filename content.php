@@ -4,5 +4,4 @@
         echo "vyvut";
         echo "vmwba";
         echo "rrsex";
-        echo "wdjdf";
 ?>
