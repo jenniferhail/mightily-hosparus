@@ -8,5 +8,4 @@
         echo "qnqwc";
         echo "yxnmp";
         echo "nfvdu";
-        echo "ugkys";
 ?>
